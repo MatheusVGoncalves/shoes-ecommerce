@@ -24,8 +24,8 @@ Ignite Shoes
 
 ## Como iniciar a aplicação localmente
 
-1. Clone este repositório usando `git clone git@github.com:MatheusVGoncalves/igniteshoes.git`;
-2. Acesse a pasta do arquivo: `cd igniteshoes`;<br />
+1. Clone este repositório usando `git clone git@github.com:MatheusVGoncalves/shoes-ecommerce.git`;
+2. Acesse a pasta do arquivo: `cd shoes-ecommerce`;<br />
 3. No terminal, digitar o comando: `npm i` para instalar as dependências da aplicação;
 4. Rode o comando: `npx expo start` para iniciar a aplicação;
 5. Acesse o Expo em seu dispositivo móvel físico ou em um emulador.
@@ -34,4 +34,4 @@ Ignite Shoes
 
 # DEMONSTRAÇÃO
 
-<video src="https://user-images.githubusercontent.com/100327745/214975618-8f75f886-e764-49ca-997b-a233cac60a33.webm" align="center" width="100%" autoplay loop muted markdown="1"/>
+<video src="https://github.com/MatheusVGoncalves/shoes-ecommerce/assets/97061067/b7ff6fc9-15f9-438e-8ab5-71015b5005b8" align="center" width="100%" autoplay loop muted markdown="1"/>
