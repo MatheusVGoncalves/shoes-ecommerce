@@ -1,5 +1,5 @@
 <h1 align="center">
-Ignite Shoes
+Shoes Ecommerce
 </h1>
 
 <p align="center">Aplicação que simula uma loja online de tênis, com a opção de enviar notificações aos usuários.</p>
